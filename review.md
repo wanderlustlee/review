@@ -19,7 +19,7 @@
 4、Redis 集群模式
 
 5、Redis zset的实现
--[Redis zset的数据结构:SkipList(跳表)的原理及实现](https://zhuanlan.zhihu.com/p/125767246)
+- [Redis zset的数据结构:SkipList(跳表)的原理及实现](https://zhuanlan.zhihu.com/p/125767246)
 
 6、Redis 分布式锁怎么保证释放正确
 - [细说Redis分布式锁](https://juejin.im/post/5e61a454e51d4526f071e1df)
@@ -40,8 +40,11 @@
 
 ## 算法
 1、TopK问题
+- [Top K 的两种经典解法（堆/快排变形）与优劣比较](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/tu-jie-top-k-wen-ti-de-liang-chong-jie-fa-you-lie-/)
+- [算法必学：经典的 Top K 问题](https://juejin.im/entry/5c565fb7f265da2d84105958)
 
 2、零钱兑换问题
+- [动态规划 零钱兑换](https://zhuanlan.zhihu.com/p/60906200)
 
 3、链表求和
 
