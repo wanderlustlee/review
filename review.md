@@ -1,3 +1,7 @@
+## 并发与多线程
+1、ThreadLocal 内存泄露
+- [ThreadLocal的内存泄露的原因分析以及如何避免](https://my.oschina.net/ccwwlx/blog/3274700)
+
 ## RocketMQ
 1、RocketMQ 如何确保 消息的成功投递和成功消费
 
@@ -7,6 +11,7 @@
 
 
 3、RocketMQ broker的注册机制
+- [《浅入浅出》-RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
 
 
 ## Redis
