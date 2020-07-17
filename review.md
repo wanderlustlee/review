@@ -13,15 +13,20 @@
 3、RocketMQ broker的注册机制
 - [《浅入浅出》-RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
 
+4、如何实现消息有序
 
 ## Redis
 1、Redis 持久化策略
 
 2、缓存预热怎么做
+- [redis 冷启动和缓存预热](https://joyxj.com/backend/51789/)
+- [缓存预热解决方案：基于 storm 实时热点统计的分布式并行缓存预热](https://zq99299.github.io/note-book/cache-pdp/069.html)
 
 3、怎么防止缓存雪崩、缓存穿透
 
-4、Redis 集群模式
+4、Redis 主从模式、哨兵模式、集群模式
+- [你了解 Redis 的三种集群模式吗？](https://juejin.im/post/5ed51964e51d457889261c13)
+- [Redis Cluster集群模式](https://phachon.com/redis/redis-3.html)
 
 5、Redis zset的实现
 - [Redis zset的数据结构:SkipList(跳表)的原理及实现](https://zhuanlan.zhihu.com/p/125767246)
@@ -30,6 +35,10 @@
 - [细说Redis分布式锁](https://juejin.im/post/5e61a454e51d4526f071e1df)
 
 7、Redis事务
+
+8、缓存更新策略
+- [缓存服务的更新策略有哪些？](https://zhuanlan.zhihu.com/p/42276548)
+- [如何保证缓存(redis)与数据库(MySQL)的一致性](https://developer.aliyun.com/article/712285)
 
 
 
