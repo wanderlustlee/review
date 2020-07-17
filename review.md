@@ -35,6 +35,7 @@
 - [细说Redis分布式锁](https://juejin.im/post/5e61a454e51d4526f071e1df)
 
 7、Redis事务
+- [事务 — Redis 设计与实现](https://redisbook.readthedocs.io/en/latest/feature/transaction.html)
 
 8、缓存更新策略
 - [缓存服务的更新策略有哪些？](https://zhuanlan.zhihu.com/p/42276548)
