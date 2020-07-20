@@ -40,6 +40,7 @@
 8、缓存更新策略
 - [缓存服务的更新策略有哪些？](https://zhuanlan.zhihu.com/p/42276548)
 - [如何保证缓存(redis)与数据库(MySQL)的一致性](https://developer.aliyun.com/article/712285)
+- [MySQL to Redis缓存同步](https://github.com/wanderlustlee/review/blob/master/Redis/MySQL%20to%20Redis%E7%BC%93%E5%AD%98%E5%90%8C%E6%AD%A5.md)
 
 
 
