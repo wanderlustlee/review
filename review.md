@@ -1,14 +1,27 @@
+
+## JVM
+- [JVM内存布局及GC原理](https://www.infoq.cn/article/3wyretkqrhivtw4frmr3)
+- [JVM 类加载机制](https://juejin.cn/post/6844904113726193671)
+
 ## 并发与多线程
-1、ThreadLocal 内存泄露
+- [线程状态](https://zhuanlan.zhihu.com/p/73354504)
 - [ThreadLocal的内存泄露的原因分析以及如何避免](https://my.oschina.net/ccwwlx/blog/3274700)
 
+## Spring
+- [通过循环依赖解决你SpringIOC的所有疑惑](https://zhuanlan.zhihu.com/p/83239501)
+- [Spring源码分析之Bean的解析](https://www.jianshu.com/p/19e01388ccc5)
+
 ## RocketMQ
+
+- [RocketMQ 消息队列模型](https://zhuanlan.zhihu.com/p/102895005)
+- [RocketMQ 设计](https://developer.aliyun.com/article/636883)
+
 1、RocketMQ 如何确保 消息的成功投递和成功消费
 
 2、RocketMQ 延迟消息怎么实现的
 - [RocketMQ 延迟消息的使用与原理分析](http://silence.work/2018/12/16/RocketMQ-%E5%BB%B6%E8%BF%9F%E6%B6%88%E6%81%AF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
 - [为什么开源的RocketMQ没有支持任意精度的延时消息](https://juejin.im/post/5dfb3f506fb9a0162d60b01b)
-
+- [RocketMQ 源码分析 —— 定时消息与消息重试](http://www.iocoder.cn/RocketMQ/message-schedule-and-retry/?vip)
 
 3、RocketMQ broker的注册机制
 - [《浅入浅出》-RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
@@ -45,6 +58,9 @@
 
 
 ## MySQL
+
+- [Innodb MVCC实现原理](https://zhuanlan.zhihu.com/p/52977862)
+
 1、MySQL explain
 
 2、MySQL 有哪几种锁
@@ -52,6 +68,8 @@
 3、MySQL insert加什么锁，insert id=6的同时 insert id=7可以吗
 
 4、MySQL 间隙锁使用场景
+
+5、如何解决主从数据不一致的问题
 
 
 ## 算法
