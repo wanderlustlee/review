@@ -1,3 +1,6 @@
+##AQS
+- [从ReentrantLock的实现看AQS的原理及应用](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+- [ReentrantLock可中断锁](https://www.dazhuanlan.com/2020/02/28/5e5848fa51bef/)
 
 ## JVM
 - [JVM内存布局及GC原理](https://www.infoq.cn/article/3wyretkqrhivtw4frmr3)
