@@ -1,3 +1,6 @@
+## JUC
+- [从ConcurrentHashMap的演进看Java多线程核心技术](http://www.jasongj.com/java/concurrenthashmap/)
+
 ##AQS
 - [从ReentrantLock的实现看AQS的原理及应用](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [ReentrantLock可中断锁](https://www.dazhuanlan.com/2020/02/28/5e5848fa51bef/)
@@ -13,6 +16,8 @@
 ## Spring
 - [通过循环依赖解决你SpringIOC的所有疑惑](https://zhuanlan.zhihu.com/p/83239501)
 - [Spring源码分析之Bean的解析](https://www.jianshu.com/p/19e01388ccc5)
+- [深入理解JDK动态代理机制](https://www.jianshu.com/p/471c80a7e831)
+- [深入理解CGLIB动态代理机制](https://www.jianshu.com/p/9a61af393e41)
 
 ## RocketMQ
 
