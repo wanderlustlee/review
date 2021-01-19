@@ -12,6 +12,7 @@
 ## 并发与多线程
 - [线程状态](https://zhuanlan.zhihu.com/p/73354504)
 - [ThreadLocal的内存泄露的原因分析以及如何避免](https://my.oschina.net/ccwwlx/blog/3274700)
+- [volatile保证可见性与有序性原理](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 
 ## Spring
 - [通过循环依赖解决你SpringIOC的所有疑惑](https://zhuanlan.zhihu.com/p/83239501)
